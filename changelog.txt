@@ -1,5 +1,6 @@
 Changelog for Superfish - a jQuery menu plugin
 
+v2.0
 v1.2.1:  	altered 2nd July 07. added hide() before animate to make work for jQuery 1.1.3.
 
 v1.2.2:  	altered 2nd August 07. changed over function .find('ul') to .find('>ul') for smoother animations
